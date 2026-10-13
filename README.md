@@ -1,9 +1,3 @@
-# idrr-workshop-ex02a-binder
-SORTEE 2026 Workshop 3, An introduction to using Docker with R for reproducible research: Example 2, for running on mybinder.org
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevekambouris/idrr-workshop-ex02a-binder/main?urlpath=rstudio)
-
-
 ### SORTEE 2026 Workshop 3
 ### An introduction to using Docker with R for reproducible research
 # Example: Calculating a bootstrapped confidence interval (R 3.5.0)
